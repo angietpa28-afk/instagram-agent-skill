@@ -41,6 +41,11 @@ Or as a plugin:
 /plugin install instagram-agent
 ```
 
+On your phone, or in Claude Code on the web: open a cloud session on this repo
+(or your fork of it). The repo ships `.claude/skills/`, which links to each
+`skills/ig-*` folder, so all thirteen commands load on their own with nothing
+to copy.
+
 Project-local instead of global: copy the same folders into your repo's
 `.claude/skills/`. No Claude Code at all? Paste any single `SKILL.md` at the top
 of a chat and it runs as a mode. You lose the five Python tools, which is most
