@@ -19,6 +19,22 @@
    "status": "done",
    "reason": "팔레트 후보만 요청, 웹페이지 빌드 아님",
    "round": 0
+  },
+  {
+   "at": "2026-11-09T14:56:59.298Z",
+   "mode": "hook",
+   "host": "claude",
+   "decision": "allow",
+   "reason": "no build is active here",
+   "stopHookActive": true
+  },
+  {
+   "at": "2026-11-09T14:59:01.713Z",
+   "mode": "hook",
+   "host": "claude",
+   "decision": "allow",
+   "reason": "no build is active here",
+   "stopHookActive": false
   }
  ],
  "max": 3,
