@@ -1,0 +1,34 @@
+{
+ "start": "2026-11-09T14:51:25.420Z",
+ "round": 0,
+ "idle": 0,
+ "errors": 0,
+ "status": "done",
+ "history": [
+  {
+   "at": "2026-11-09T14:52:54.288Z",
+   "mode": "done",
+   "status": "done",
+   "reason": "컬러 리디자인만 요청, 웹사이트 페이지 아님",
+   "round": 0
+  },
+  {
+   "at": "2026-11-09T14:53:07.889Z",
+   "mode": "hook",
+   "host": "claude",
+   "decision": "allow",
+   "reason": "no build is active here",
+   "stopHookActive": false
+  }
+ ],
+ "max": 3,
+ "marker": {
+  "page": null,
+  "dir": "/home/user/instagram-agent-skill",
+  "kind": "software",
+  "start": "2026-11-09T14:51:25.420Z",
+  "by": "start.mjs"
+ },
+ "doneReason": "컬러 리디자인만 요청, 웹사이트 페이지 아님",
+ "at": "2026-11-09T14:52:54.289Z"
+}
